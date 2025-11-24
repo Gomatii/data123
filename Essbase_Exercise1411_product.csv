@@ -1,0 +1,110 @@
+﻿Product ID,Product Name,Product Description,Brand Name,Trade Mark,Product Type
+1,BP_0001,Coca-Cola,BR_001,TM_05,Sparkling
+2,BP_0051,Coke II,BR_001,TM_05,Sparkling
+3,BP_0216,Coca-Cola Cherry,BR_001,TM_05,Sparkling
+4,BP_0280,caffeine-free Coca-Cola,BR_001,TM_05,Sparkling
+5,BP_0281,caffeine-free Coke I I,BR_001,TM_05,Sparkling
+6,BP_0505,Coca-Cola Kosher,BR_001,TM_05,Sparkling
+7,BP_6085,Coca-Cola Vanilla,BR_001,TM_05,Sparkling
+8,BP_A06T,Coca-Cola C2,BR_001,TM_05,Sparkling
+9,BP_A073,caffeine-free Coca-Cola C2,BR_001,TM_05,Sparkling
+10,BP_A10M,Coca-Cola with Lemon,BR_001,TM_05,Water
+11,BP_A12F,Coca-Cola with Raspberry,BR_001,TM_05,Water
+12,BP_A1AU,Coca-Cola C2 New Product 1,BR_001,TM_05,Water
+13,BP_A1AV,Coca-Cola C2 New Product 2,BR_001,TM_05,Water
+14,BP_A1ND,Coca-Cola New Product 1,BR_001,TM_05,Water
+15,BP_A1NE,Coca-Cola New Product 2,BR_001,TM_05,Water
+16,BP_A1NF,Coca-Cola New Product 3,BR_001,TM_05,Water
+17,BP_A1V3,Coca-Cola with Lime,BR_001,TM_05,Water
+18,BP_A1ZA,Coca-Cola Citra,BR_001,TM_05,Water
+19,BP_A275,Coca-Cola Variety Pack,BR_001,TM_05,Water
+20,BP_A2B2,Coca-Cola Black Cherry Vanilla,BR_001,TM_05,Water
+21,BP_A3FA,Coca-Cola with Orange,BR_001,TM_05,Sparkling
+22,BP_A42J,Coca-Cola New Product 6,BR_001,TM_05,Sparkling
+23,BP_A42K,Coca-Cola New Product 7,BR_001,TM_05,Sparkling
+24,BP_A48G,Coca-Cola MD Beverage Mix,BR_001,TM_05,Sparkling
+25,BP_A5W7,Coca-Cola New Product 10,BR_001,TM_05,Sparkling
+26,BP_A6ZW,Coca-Cola with Peach,BR_001,TM_05,Sparkling
+27,BP_A9CM,Coca-Cola Prototype 2014,BR_001,TM_05,Sparkling
+28,BP_A9MN,Coca-Cola Orange,BR_001,TM_05,Sparkling
+29,BP_AAD1,Coca-Cola Secret Santa,BR_001,TM_05,Sparkling
+30,BP_ABFX,Coca-Cola California Raspberry,BR_001,TM_05,Sparkling
+31,BP_ABFY,Coca-Cola Georgia Peach,BR_001,TM_05,Sparkling
+32,BP_ABZJ,Coca-Cola Frozen Lemon,BR_001,TM_05,Water
+33,BP_AC2U,Coca-Cola Raspberry,BR_001,TM_05,Water
+34,BP_AC3H,Coca-Cola Orange Sorbet,BR_001,TM_05,Water
+35,BP_AC5O,Coca-Cola Clear Lemon,BR_001,TM_05,Water
+36,BP_0002,diet Coke,BR_002,TM_05,Water
+37,BP_0265,caffeine-free diet Coke,BR_002,TM_05,Water
+38,BP_0483,diet Cherry Coke,BR_002,TM_05,Water
+39,BP_0503,caffeine-free diet Coke Kosher,BR_002,TM_05,Water
+40,BP_0506,diet Coke Kosher,BR_002,TM_05,Water
+41,BP_1250,caffeine-free Coke light,BR_002,TM_05,Water
+42,BP_1253,Coca-Cola light,BR_002,TM_05,Water
+43,BP_5464,diet Coke with Lemon,BR_002,TM_05,Water
+44,BP_5951,Coca-Cola light with Lemon,BR_002,TM_05,Tea
+45,BP_6691,diet Vanilla Coke,BR_002,TM_05,Tea
+46,BP_7933,diet Coke with Lime,BR_002,TM_05,Tea
+47,BP_A1NG,diet Coke New Product 1,BR_002,TM_05,Tea
+48,BP_A1NH,diet Coke New Product 2,BR_002,TM_05,Tea
+49,BP_A1XV,diet Coke Sweetened with Splenda,BR_002,TM_05,Tea
+50,BP_A1Y2,Coca-Cola light with Lime,BR_002,TM_05,Tea
+51,BP_A1YR,Coca-Cola light Orange,BR_002,TM_05,Tea
+52,BP_A1ZB,Coca-Cola light Citra,BR_002,TM_05,Tea
+53,BP_A26F,diet Coke Citrus Zest,BR_002,TM_05,Tea
+54,BP_A2B3,diet Coke Black Cherry Vanilla,BR_002,TM_05,Tea
+55,BP_A3E7,Coca-Cola No Calorie,BR_002,TM_05,Tea
+56,BP_A48H,diet Coke MD Beverage Mix,BR_002,TM_05,Tea
+57,BP_A48I,caffeine free diet Coke MD Beverage Mix,BR_002,TM_05,Tea
+58,BP_A8ZG,Coca-Cola Light MD Beverage Mix,BR_002,TM_05,Sparkling
+59,BP_A9BX,diet Coke Frost Cherry,BR_002,TM_05,Sparkling
+60,BP_AADT,diet Coke Frost with a Splash of Cherry,BR_002,TM_05,Sparkling
+61,BP_ABK7,Diet Coke Twisted Mango,BR_002,TM_05,Sparkling
+62,BP_ABKB,Diet Coke Zesty Blood Orange,BR_002,TM_05,Sparkling
+63,BP_ABPT,diet Coke Ginger Lime,BR_002,TM_05,Sparkling
+64,BP_ABPU,diet Coke Feisty Cherry,BR_002,TM_05,Sparkling
+65,BP_ABTK,caffeine free diet Coke Ginger with Lime,BR_002,TM_05,Sparkling
+66,BP_ABU3,Caffeine Free Diet Coke Ginger with Lemon,BR_002,TM_05,Sparkling
+67,BP_ABU4,Diet Coke Ginger with Lemon,BR_002,TM_05,Sparkling
+68,BP_ABUE,diet Coke Exotic Mango,BR_002,TM_05,Sparkling
+69,BP_AC78,Coca-Cola Light Ginger Lime,BR_002,TM_05,Sparkling
+70,BP_AC79,Coca-Cola Light Exotic Mango,BR_002,TM_05,Sparkling
+71,BP_A28M,Coca-Cola BUD New Product 2,BR_B05,TM_09,Sparkling
+72,BP_A28N,Coca-Cola BUD New Product 3,BR_B05,TM_09,Sparkling
+73,BP_A7TY,Coca-Cola BUD II New Product 4,BR_B05,TM_09,Sparkling
+74,BP_A7TZ,Coca-Cola BUD II New Product 5,BR_B05,TM_09,Sparkling
+75,BP_A28O,Coca-Cola BUD New Product 4,BR_B06,TM_09,Sparkling
+76,BP_A28P,Coca-Cola BUD New Product 5,BR_B06,TM_09,Sparkling
+77,BP_A7T6,Coca-Cola BUD III New Product 6,BR_B06,TM_09,Sparkling
+78,BP_A7T7,Coca-Cola BUD III New Product 7,BR_B06,TM_09,Sparkling
+79,BP_A1VS,Coca-Cola Zero,BR_BOD,TM_11,Sparkling
+80,BP_A22B,Coca-Cola Cherry Zero,BR_BOD,TM_11,Sparkling
+81,BP_A3A5,Coca-Cola Vanilla Zero,BR_BOD,TM_11,Sparkling
+82,BP_A44M,Coca-Cola Zero New Product 1,BR_BOD,TM_11,Sparkling
+83,BP_A44N,Coca-Cola Zero New Product 2,BR_BOD,TM_11,Sparkling
+84,BP_A48J,Coke ZeroFlavors MD Beverage Mix,BR_BOD,TM_11,Sparkling
+85,BP_A56E,Coca-Cola Zero Caffeine-Free,BR_BOD,TM_11,Sparkling
+86,BP_A6QB,Coca-Cola Zero Raspberry,BR_BOD,TM_11,Sparkling
+87,BP_A6QC,Coca-Cola Zero Lemon,BR_BOD,TM_11,Sparkling
+88,BP_A6QD,Coca-Cola Zero Lime,BR_BOD,TM_11,Sparkling
+89,BP_A6Z1,Coca-Cola Zero Peach,BR_BOD,TM_11,Sparkling
+90,BP_A8WF,Coke ZeroFlavors Caffeine-Free MD Beverage Mix,BR_BOD,TM_11,Sparkling
+91,BP_AAHZ,Coca-Cola Zero Variety Pack,BR_BOD,TM_11,Water
+92,BP_AB6G,Coca-Cola Zero Sugar,BR_BOD,TM_11,Water
+93,BP_ABBA,Coca-Cola No Sugar,BR_BOD,TM_11,Water
+94,BP_ABCW,Coca-Cola Stevia,BR_BOD,TM_11,Water
+95,BP_ABQL,Coca-Cola Zero Sugar MD Beverage Mix,BR_BOD,TM_11,Water
+96,BP_ABXT,Coca-Cola Without Sugar,BR_BOD,TM_11,Water
+97,BP_AC2T,Coca-Cola Orange No Sugar,BR_BOD,TM_11,Water
+98,BP_AC37,Coca-Cola Zero Ginger,BR_BOD,TM_11,Water
+99,BP_AC7Z,Coca-Cola Vanilla No Sugar,BR_BOD,TM_11,Water
+100,BP_AC8Y,Coca-Cola Peach No Sugar,BR_BOD,TM_11,Water
+101,BP_AC9E,Coca-Cola Zero Cinnamon,BR_BOD,TM_11,Water
+102,BP_A1XP,Coca-Cola BUD New Product 1,BR_BOI,TM_11,Water
+103,BP_A7S1,Coca-Cola BUD I New Product 2,BR_BOI,TM_11,Water
+104,BP_A7S2,Coca-Cola BUD I New Product 3,BR_BOI,TM_11,Water
+105,BP_A8S1,Coca-Cola Life,BR_CIR,TM_11,Water
+106,BP_A9HX,Coca-Cola Life (Reg Cal),BR_CIR,TM_11,Water
+107,BP_AAQI,Coca-Cola with Stevia  50 Less Sugar,BR_CIR,TM_11,Water
+108,BP_AAYK,Coca-Cola with Stevia,BR_CIR,TM_11,Water
+109,BP_ABT5,Coca-Cola with less Sugar,BR_CIR,TM_11,Water
